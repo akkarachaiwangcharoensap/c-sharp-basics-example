@@ -1,0 +1,13 @@
+C:\Users\akkar\source\repos\c-sharp-basics-example\c-sharp-basics-example\bin\Debug\netcoreapp3.1\c-sharp-basics-example.exe
+C:\Users\akkar\source\repos\c-sharp-basics-example\c-sharp-basics-example\bin\Debug\netcoreapp3.1\c-sharp-basics-example.deps.json
+C:\Users\akkar\source\repos\c-sharp-basics-example\c-sharp-basics-example\bin\Debug\netcoreapp3.1\c-sharp-basics-example.runtimeconfig.json
+C:\Users\akkar\source\repos\c-sharp-basics-example\c-sharp-basics-example\bin\Debug\netcoreapp3.1\c-sharp-basics-example.runtimeconfig.dev.json
+C:\Users\akkar\source\repos\c-sharp-basics-example\c-sharp-basics-example\bin\Debug\netcoreapp3.1\c-sharp-basics-example.dll
+C:\Users\akkar\source\repos\c-sharp-basics-example\c-sharp-basics-example\bin\Debug\netcoreapp3.1\c-sharp-basics-example.pdb
+C:\Users\akkar\source\repos\c-sharp-basics-example\c-sharp-basics-example\obj\Debug\netcoreapp3.1\c-sharp-basics-example.csprojAssemblyReference.cache
+C:\Users\akkar\source\repos\c-sharp-basics-example\c-sharp-basics-example\obj\Debug\netcoreapp3.1\c-sharp-basics-example.AssemblyInfoInputs.cache
+C:\Users\akkar\source\repos\c-sharp-basics-example\c-sharp-basics-example\obj\Debug\netcoreapp3.1\c-sharp-basics-example.AssemblyInfo.cs
+C:\Users\akkar\source\repos\c-sharp-basics-example\c-sharp-basics-example\obj\Debug\netcoreapp3.1\c-sharp-basics-example.csproj.CoreCompileInputs.cache
+C:\Users\akkar\source\repos\c-sharp-basics-example\c-sharp-basics-example\obj\Debug\netcoreapp3.1\c-sharp-basics-example.dll
+C:\Users\akkar\source\repos\c-sharp-basics-example\c-sharp-basics-example\obj\Debug\netcoreapp3.1\c-sharp-basics-example.pdb
+C:\Users\akkar\source\repos\c-sharp-basics-example\c-sharp-basics-example\obj\Debug\netcoreapp3.1\c-sharp-basics-example.genruntimeconfig.cache
